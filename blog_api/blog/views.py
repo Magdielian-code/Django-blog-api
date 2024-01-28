@@ -4,7 +4,7 @@ from django.http import HttpResponse
 posts = [
     {
         'author': 'Dave Smith',
-        'title': 'Blog post',
+        'title': 'Blog post 1',
         'content': 'Demo post',
         'date_posted': 'January 27, 2024'
     },
