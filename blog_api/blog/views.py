@@ -11,7 +11,7 @@ posts = [
         'author': 'Gregor Mendel',
         'title': 'Blog post 2',
         'content': 'Demo post 2',
-        'date_posted': 'January 30, 2024'
+        'date_posted': 'January 30, 2024' 
     }
 ]
 
