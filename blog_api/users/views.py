@@ -5,4 +5,3 @@ def register(request):
     form = UserCreationForm()
     return render(request, 'users/register.html', {'forms': form})
 
-
